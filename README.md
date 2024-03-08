@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Tathagat !!
 🔭 I’m currently working on Machine Learning and Artificial Intelligence
 
 
